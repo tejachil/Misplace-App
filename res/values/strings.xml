@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Misplace</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_settings">User Settings</string>
+    <string name="title_activity_settings">Dummy</string>
+    <string name="title_activity_tag">Checkin NFC Tags</string>
+    <string name="title_section1">Add Tags</string>
+    <string name="title_section2">Check in Tags</string>
+    <string name="title_section3">Query Tags</string>
+    <string name="title_activity_main">Misplace</string>
+    <string name="title_activity_server">Set Server</string>
+
+</resources>
